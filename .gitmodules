@@ -1,0 +1,3 @@
+[submodule "abusive-language-analysis-service"]
+	path = abusive-language-analysis-service
+	url = https://github.com/Akram-saj/abusive-language-analysis-service.git
